@@ -1,2 +1,2 @@
-# myappsample
-sample app for tut
+#MyApp
+This is my app 2
